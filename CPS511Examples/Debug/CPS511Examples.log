@@ -1,0 +1,68 @@
+﻿  main.c
+C:\Users\nickj\Desktop\CODE\Temp\main.c(152,20): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(152,35): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(153,23): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(153,41): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(288,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nickj\Desktop\CODE\Temp\main.c(290,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nickj\Desktop\CODE\Temp\main.c(223,12): warning C4101:  'ch2': unreferenced local variable
+C:\Users\nickj\Desktop\CODE\Temp\main.c(222,6): warning C4101:  'k': unreferenced local variable
+C:\Users\nickj\Desktop\CODE\Temp\main.c(221,7): warning C4101:  'index': unreferenced local variable
+C:\Users\nickj\Desktop\CODE\Temp\main.c(223,7): warning C4101:  'ch1': unreferenced local variable
+C:\Users\nickj\Desktop\CODE\Temp\main.c(474,16): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(476,25): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(550,47): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(551,61): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(564,70): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(564,132): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(569,70): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(569,132): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(574,70): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(574,132): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(579,17): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(579,22): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(619,42): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(632,18): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(636,50): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(639,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(651,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(652,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(653,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(655,35): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(657,35): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(642,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(751,14): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(751,19): warning C4305:  'function': truncation from 'double' to 'GLfloat'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(759,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nickj\Desktop\CODE\Temp\main.c(761,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\nickj\Desktop\CODE\Temp\main.c(769,21): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(788,22): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(819,27): warning C4244:  'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(925,73): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(926,73): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(934,44): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(935,44): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(962,82): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(963,82): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(970,83): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(971,83): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1054,73): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1055,73): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1064,73): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1065,73): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1072,50): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1073,50): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1076,21): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1080,21): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1087,15): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1090,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1093,15): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1096,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1158,18): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1187,17): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1207,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1209,22): warning C4244:  'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1212,25): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1212,31): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\Temp\main.c(1212,37): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+  CPS511Examples.vcxproj -> C:\Users\nickj\Desktop\CODE\C++ Projects\CPS511Examples\Debug\CPS511Examples.exe
